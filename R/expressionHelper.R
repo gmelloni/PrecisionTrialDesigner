@@ -67,7 +67,7 @@
                           setNames(df[[1]])
                         return(df)
                     })
-                mrnaCbioField <- "Tumor Samples with mRNA data (RNA Seq V2)"
+                mrnaCbioField <- "Samples with mRNA data (RNA Seq V2)"
                 sel <- caseList$case_list_name==mrnaCbioField
                 type <- "RNAseq"
             # TO DO:
